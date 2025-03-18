@@ -1,4 +1,4 @@
-# 🎓 SIKERMA PK (Sistem Informasi Kerja Sama Perguruan Tinggi) 🚀
+# 🎓 SIKERMA PK (Sistem Informasi Kerja Sama) 🚀
 
 ## 📖 Tentang SIKERMA PK
 SIKERMA PK adalah platform inovatif yang dirancang untuk mempermudah pengelolaan dan pemantauan kerja sama antar perguruan tinggi, baik dalam skala nasional maupun internasional. Dengan sistem yang terstruktur dan berbasis data, institusi pendidikan tinggi dapat lebih mudah mengelola perjanjian, mengoptimalkan kolaborasi, dan meningkatkan efektivitas kerja sama.
@@ -17,18 +17,18 @@ SIKERMA PK adalah platform inovatif yang dirancang untuk mempermudah pengelolaan
 🔒 **Keamanan Terjamin** - Proteksi data dengan enkripsi tingkat tinggi untuk menjaga kerahasiaan informasi.  
 
 ## 🛠️ Teknologi yang Digunakan
-🚀 **Frontend**: React.js, Bootstrap (Desain responsif & interaktif)  
-🔗 **Backend**: Node.js, Express.js (Kinerja cepat & scalable)  
-🗄️ **Database**: MySQL/PostgreSQL (Penyimpanan data aman & fleksibel)  
+🚀 **Frontend**: Bootstrap (Desain responsif & interaktif)  
+🔗 **Backend**: Codeigniter (Kinerja cepat & scalable)  
+🗄️ **Database**: MySQL(Penyimpanan data aman & fleksibel)  
 🔐 **Autentikasi**: JWT Authentication (Keamanan akses tingkat lanjut)  
 
 ## 🤝 Bergabung & Berkontribusi!
 Kami selalu terbuka untuk ide dan inovasi baru! 💡 Jika Anda ingin berkontribusi, silakan fork repository ini dan ajukan pull request untuk fitur baru atau perbaikan bug.  
 
 ## 📞 Hubungi Kami
-📧 **Email**: support@sikerma-pk.com  
-🌐 **Website**: [www.sikerma-pk.com](http://www.sikerma-pk.com)  
-📱 **Media Sosial**: [LinkedIn](#) | [Twitter](#) | [Facebook](#)  
+📧 **Email**: -  
+🌐 **Website**: -
+📱 **Media Sosial**: -
 
 ---
 🚀 **Dukung kami dengan memberikan ⭐ di repository ini jika Anda merasa sistem ini bermanfaat!**

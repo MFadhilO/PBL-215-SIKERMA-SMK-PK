@@ -1,12 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\PenggunaController;
-use App\Http\Controllers\DokumenController;
-use App\Http\Controllers\BidangKerjasamaController;
-use App\Http\Controllers\KerjasamaController;
-use App\Http\Controllers\UnitPengajuController;
-use App\Http\Controllers\PengajuanController;
+
 
 
 
@@ -26,6 +21,12 @@ Route::get('/', function () {
 });
 
 use App\Http\Controllers\MahasiswaController;
+use App\Http\Controllers\PenggunaController;
+use App\Http\Controllers\DokumenController;
+use App\Http\Controllers\BidangKerjasamaController;
+use App\Http\Controllers\kerja_samaController;
+use App\Http\Controllers\unit_pengajuController;
+use App\Http\Controllers\PengajuanController;
 
 Route::get('/mahasiswa', [MahasiswaController::class, 'index']);
 Route::get('/mahasiswa/create', [MahasiswaController::class, 'create']);
@@ -38,6 +39,6 @@ Route::delete('/mahasiswa/{nim}', [MahasiswaController::class, 'destroy']);
 Route::resource('/pengguna', PenggunaController::class);
 Route::resource('/dokumen', DokumenController::class);
 Route::resource('/bidang_kerja_sama', BidangKerjaSamaController::class);
-Route::resource('/kerja_sama', KerjaSamaController::class);
-Route::resource('/unit_pengaju', UnitPengajuController::class);
+Route::resource('/kerja_sama', kerja_samaController::class);
+Route::resource('/unit_pengaju', unit_pengajuController::class);
 Route::resource('/pengajuan', PengajuanController::class);
